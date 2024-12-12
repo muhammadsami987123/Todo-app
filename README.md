@@ -9,6 +9,11 @@ A sleek and modern To-Do application built with **Next.js** and **Tailwind CSS**
 - **Responsive Design:** Fully responsive for desktop and mobile devices.
 - **Modern UI:** Powered by Tailwind CSS for an aesthetically pleasing design.
 
+## Live Demo
+
+Explore the live version of the To-Do App here:
+[Live Demo](https://todo-app2-rho.vercel.app/)
+
 ## 🛠️ Technologies Used
 
 - **Framework:** [Next.js](https://nextjs.org/) (v15.1.0)
