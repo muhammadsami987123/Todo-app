@@ -1,36 +1,103 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# To-Do App
 
-## Getting Started
+A sleek and modern To-Do application built with **Next.js** and **Tailwind CSS**, designed to help you manage your tasks effectively.
 
-First, run the development server:
+## 🚀 Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+- **Add Tasks:** Easily add new tasks with a user-friendly interface.
+- **Mark as Completed:** Organize your tasks by marking them as completed.
+- **Responsive Design:** Fully responsive for desktop and mobile devices.
+- **Modern UI:** Powered by Tailwind CSS for an aesthetically pleasing design.
+
+## 🛠️ Technologies Used
+
+- **Framework:** [Next.js](https://nextjs.org/) (v15.1.0)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Language:** TypeScript
+
+## 📂 Project Structure
+
+```
+├── src
+│   ├── app
+│   │   ├── App.tsx       # Main application component
+│   │   ├── page.tsx      # Entry point for Next.js
+│   │   ├── globals.css   # Global CSS styling
+│   └── components        # Reusable UI components
+│
+└── README.md             # Project documentation
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Getting Started
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Follow these steps to get the project up and running locally.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Prerequisites
 
-## Learn More
+Make sure you have the following installed:
+- [Node.js](https://nodejs.org/) (v16 or later)
+- [npm](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/)
 
-To learn more about Next.js, take a look at the following resources:
+### Installation
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/todo-app.git
+   cd todo-app
+   ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+2. Install dependencies:
+   ```bash
+   npm install
+   # or
+   yarn install
+   ```
 
-## Deploy on Vercel
+3. Start the development server:
+   ```bash
+   npm run dev
+   # or
+   yarn dev
+   ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+4. Open your browser and navigate to `http://localhost:3000`.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🌟 Usage
+
+- Add your tasks using the input field.
+- Mark tasks as completed by clicking on them.
+- Delete tasks to keep your list clean.
+
+## 🤝 Contributing
+
+Contributions are welcome! Follow these steps to contribute:
+
+1. Fork the repository.
+2. Create a new branch:
+   ```bash
+   git checkout -b feature-name
+   ```
+3. Commit your changes:
+   ```bash
+   git commit -m "Add some feature"
+   ```
+4. Push to the branch:
+   ```bash
+   git push origin feature-name
+   ```
+5. Open a pull request.
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+### 📧 Contact
+
+For any inquiries, feel free to contact:
+- **Author:** Muhammad Sami Asghar Mughal  
+- **GitHub:** [github.com/muhammadsami987123](https://github.com/muhammadsami987123)
+- **Email:** m.smiwaseem1234@gmail.com
+
+
